@@ -19,6 +19,4 @@
 3. Build and run the application on an Android emulator or physical device.
  
 ## Contributions welcome! 🛠️
-![Image](https://github.com/user-attachments/assets/f623454e-a420-40ce-b959-5e58a586c00d)
-
-![Image](https://github.com/user-attachments/assets/63c27451-82ab-49f1-aaf7-dbadef435346)
+![Image](https://github.com/user-attachments/assets/f623454e-a420-40ce-b959-5e58a586c00d) ![Image](https://github.com/user-attachments/assets/63c27451-82ab-49f1-aaf7-dbadef435346)
